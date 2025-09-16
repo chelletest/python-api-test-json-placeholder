@@ -36,4 +36,6 @@ python test_api.py
 
 This project is licenced under the MIT Licence.
 
+## Screenshot
+
 <img width="923" height="47" alt="apitest-python" src="https://github.com/user-attachments/assets/a1abcac6-ddaa-4398-b94d-8be219c50098" />
