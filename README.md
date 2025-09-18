@@ -19,18 +19,19 @@ The project demonstrates how to:
 
 1. Clone the repo:
 
----bash
-git clone https://github.com/chelletest/python-api-test-json-placeholder.git
-cd python-api-test-json-placeholder
+- git clone https://github.com/chelletest/python-api-test-json-placeholder.git
+
+- cd python-api-test-json-placeholder
 
 
 2. install dependencies
-pip install requests
+- pip install requests
 
 ## Usage
 
 3. Run the test script:
-python test_api.py
+   
+- python test_api.py
 
 ## Licence   
 
