@@ -24,7 +24,7 @@ The project demonstrates how to:
 - cd python-api-test-json-placeholder
 
 
-2. install dependencies:
+2. Install dependencies:
 - pip install requests
 
 ## Usage
