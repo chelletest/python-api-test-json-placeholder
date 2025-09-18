@@ -13,7 +13,7 @@ The project demonstrates how to:
 ## Requirements
 
 - Python 3.x
-- `requests` library
+- `Requests` library
 
 ## Installation
 
@@ -24,7 +24,7 @@ The project demonstrates how to:
 - cd python-api-test-json-placeholder
 
 
-2. install dependencies
+2. install dependencies:
 - pip install requests
 
 ## Usage
