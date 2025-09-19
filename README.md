@@ -13,25 +13,27 @@ The project demonstrates how to:
 ## Requirements
 
 - Python 3.x
-- `Requests` library
+- `requests` library
 
 ## Installation
 
 1. Clone the repo:
 
-- git clone https://github.com/chelletest/python-api-test-json-placeholder.git
+   - `git clone https://github.com/chelletest/python-api-test-json-placeholder.git`
 
-- cd python-api-test-json-placeholder
+2. Navigate into the project directory:
+   
+   - `cd python-api-test-json-placeholder`
 
 
-2. Install dependencies:
-- pip install requests
+3. Install dependencies:
+
+    - `pip install requests`
 
 ## Usage
 
-3. Run the test script:
-   
-- python test_api.py
+Run the test script:
+   - `python test_api.py`
 
 ## Licence   
 
